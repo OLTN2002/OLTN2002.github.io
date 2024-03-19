@@ -33,7 +33,9 @@ a{
     font-weight: bold;
     text-decoration: none;
     color: #fff;
+    padding: 8px 15px;
     border-radius: 20px;
+    text-align: center;
 }
 
 span {
