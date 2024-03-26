@@ -6,11 +6,11 @@ h1 {
 a {
     text-decoration: dotted;
     text-align: center;
-    color: rgba(255, 0, 0, 0.795);
+    color: rgba(73, 0, 0, 0.795);
 }
 
 body {
-    background-color: rgb(54, 54, 54);
+    background-color: rgb(134, 0, 0);
     background-image: url();
     margin-top: 100px;
     text-align: center;
