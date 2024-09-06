@@ -1,3 +1,13 @@
+:root {
+    --cor1: dimgray;
+    --cor2: black;
+    --cor3: white;
+    --cor4: lightgray;
+    --cor5: aliceblue;
+}
+
+
+
 h1 {
     color: rgb(250, 220, 85);
     text-align: center;
