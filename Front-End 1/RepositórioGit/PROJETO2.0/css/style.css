@@ -1,0 +1,92 @@
+.card {
+    text-align: center;
+    display: block;
+    border-radius: 30px;
+    border:10px solid rgb(0, 0, 0);
+    padding: 5px;
+}
+
+
+
+h1 {
+    color: rgb(85, 176, 250);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(167, 197, 255);
+    font-size:large
+}
+
+h3 {
+    color: rgb(167, 212, 255);
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+H1 {
+    color: blanchedalmond;
+}
+
+a {
+    text-decoration:underline;
+    text-align: center;
+    color: rgb(106, 116, 255);
+}
+
+
+body {
+    background-color: rgb(0, 31, 71);
+    background-image: url();
+    text-align: center;
+    align-items: center;
+}
+
+img {
+    border: 10px double rgb(0, 17, 255);
+    margin-right: 5px;
+    text-align: center;
+}
+
+div {
+    background-color: rgb(0, 48, 104);
+    padding: 50px;
+    margin: 7px;
+    border-top: 10px rgb(0, 48, 104);
+    border-color: rgb(0, 33, 83);
+    width: 800;
+    text-align: center;
+}
+
+.botao {
+    border: solid 1px #ffffff;
+    justify-content: center;
+    min-width: 220px;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    background-color: rgb(204, 0, 255);
+    transition: background-color 0.5s ease, color 0.5s ease, transform 0.5s ease;
+    align-items: center;
+    width: 20%;
+    height: 50px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 4px solid black;
+    animation: my-animation 5s infinite;}
+    
+
+    .botao:hover{
+        background-color: rgb(0, 0, 0);
+        color: rgb(0, 0, 0);
+        transform: scale(1.2)}
+
+nav{
+    border-radius: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    border: 8px solid rgb(76, 0, 255);
+    text-align: center;
+    display: block;
+    padding: 5px;
+}
+
